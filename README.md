@@ -32,7 +32,7 @@
 
 1. Динаміка утворення та оброблення відходів в Україні (2019–2024 рр.)
 
-<img width="1920" height="1440" alt="waste_dynamics_2019_2024" src="https://github.com/user-attachments/assets/341087e4-10e8-4c4c-940a-76f5894141f3" />
+![Динаміка відходів](waste_dynamics_2019_2024.png)
 
 
 
